@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+PyPDF2
+scikit-learn
+nltk
+huggingface_hub
+mysql-connector-python
